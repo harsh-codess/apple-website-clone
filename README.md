@@ -2,7 +2,7 @@
 
 A clean and modern **Apple website clone** built to practice front-end skills. This project mimics the look and feel of Apple's official site, showcasing sleek UI/UX design using HTML, CSS, and JavaScript.
 
-> 🔗 **Live Demo:** [Harsh Gidwani](https://clonewebs2.netlify.app/)
+>   🔗 **Live Demo:** [Harsh Gidwani](https://clonewebs2.netlify.app/)
 
 ---
 
